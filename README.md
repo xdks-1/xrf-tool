@@ -53,6 +53,10 @@ Dumping flash raw (Requires Administrator)
 ```
 XRF dumpflash [dumpname]
 ```
+Terminating processes (Requires Administrator)
+```
+XRF terminate [processname]
+```
 
 ### Credit:
 - emoose
