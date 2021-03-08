@@ -7,7 +7,7 @@
 #define CMD_DISPFLASH		"dispflash"
 #define CMD_READFLASH		"readflash"
 #define CMD_DUMPFLASH		"dumpflash"
-#define CMD_WHOAMI			"whoami"
+#define CMD_WHOAMI		"whoami"
 #define CMD_TERMINATE		"terminate"
 
 int main(int argc, char *argv[])
